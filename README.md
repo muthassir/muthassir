@@ -6,7 +6,7 @@
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muthaseir@gmail.com) 
-[![portfolio](https://portfolio-muthassir.netlify.app)] 
+ 
 
 
 
